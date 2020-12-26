@@ -4,6 +4,14 @@ Here will be some information about the app.
 
 ## How to start?
 
+Get the object and data they talk about in the trail (see description for link) set up.
+
+If you don't have:
+
+1. The creds right in the .env file for your SF instance
+2. The object and data it expects...
+   ... It won't work.
+
 If you don't have NPM in there yet...
 `npm install`
 Then to get a local server running...
